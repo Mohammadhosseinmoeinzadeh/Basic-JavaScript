@@ -3,3 +3,21 @@ document.getElementById(“id”);
 
 Access using name =>
 document.getElementByName(“name”);
+
+example => We want to get two numbers from the user and display the sum.
+
+		<script type="text/javascript">
+function plus(){
+	var a = Number(document.getElementById("1").value);
+	var b = Number(document.getElementById("2").value);
+	document.getElementById("3").value=a+b;
+	
+}
+	</script>
+	<label>number 1: </label><input type="text" name="number1" id="1"><br><br>
+
+	<label>namber 2: </label><input type="text" name="number2" id="2"><br><br>
+
+	<label>show box </label><input type="text" name="show box" id="3"><br><br>
+
+	<input type="button" name="button" value="show" onclick="plus()"/><br>
