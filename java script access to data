@@ -1,0 +1,5 @@
+Access using id =>
+document.getElementById(“id”);
+
+Access using name =>
+document.getElementByName(“name”);
