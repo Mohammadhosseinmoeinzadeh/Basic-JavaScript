@@ -1,0 +1,3 @@
+//The document object and the write method are used to display the text.
+
+document.write("hello");
