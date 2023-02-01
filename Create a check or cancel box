@@ -1,0 +1,9 @@
+//Confirm: Creates a box with two options, yes and Cancel//
+
+<script type="text/javascript">
+	var  a=window.confirm("your next?");
+	if (a==true)
+		window.alert("you click yes");
+	else
+		window.alert("you click cancel");
+	</script>
