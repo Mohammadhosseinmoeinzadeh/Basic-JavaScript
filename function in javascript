@@ -1,0 +1,11 @@
+<script type="text/javascript">
+Function plus()
+{
+Var x = 1;
+Var y = 2;
+Var z = x + y;
+}  
+</script>
+
+/*In this function, x and y values are added together and put into the z variable.
+This addition is done every time the function name is called.*/
