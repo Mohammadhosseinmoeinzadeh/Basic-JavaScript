@@ -1,0 +1,14 @@
+/* onchange or onclick 
+
+onchange : Changing the values of one of the sample fields on web pages.
+onclick : Mouse click on an element.
+
+example print 3 name in function =>*/
+
+<script type="text/javascript">
+function showname(){
+document.write(“ali”+”<br>”);
+document.write(“mohammad”);
+document.write(“abdolah”);}
+</script>
+<input type=”button” name=”button” value=”show name” onclick=”showname()” />
