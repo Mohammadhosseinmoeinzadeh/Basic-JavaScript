@@ -1,0 +1,11 @@
+1 . Putting Java codes in an HTML file and using script in the <head> and <body> sections.
+
+<script type=”text/javascript”>
+…….
+</script>
+
+2 . Create external script file and save it with js extension.
+
+<script type=”text/javascript” src=”file location”>
+
+</script>
