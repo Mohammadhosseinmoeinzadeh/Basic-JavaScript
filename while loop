@@ -3,3 +3,16 @@ while ( i < 10 ) {
 }
 
 /*This loop is executed only until a condition is true.*/
+example =>
+
+<script>
+ 
+var i = 1;
+ 
+while( i < 11 ){
+ document.write( i + "<br>" );
+ i++
+}
+ 
+</script>
+
