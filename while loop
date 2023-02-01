@@ -1,0 +1,5 @@
+while ( i < 10 ) {
+ ...
+}
+
+/*This loop is executed only until a condition is true.*/
